@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ErrorTracer"]
 	path = ErrorTracer
-	url = https://github.com/cran/ErrorTracer
+	url = https://github.com/luismadrigal98/errortracer
